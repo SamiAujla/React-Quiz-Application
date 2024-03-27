@@ -1,0 +1,3 @@
+Type "npm run dev" on terminal of visual studio
+
+ctrl+ click on http://localhost:5173/
